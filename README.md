@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
-<h3 align="center">A Computer Science student</h3>
+<h3 align="center">A CS Graduate | Java Developer</h3>
 <h3 align="left">About me</h3>
-<p align="start">First and foremost, I enjoy discovering how things work below the observable surface</p>
-<p align="start">When it comes to work, I enjoy working on the backend with distributed systems, and with the low-level networking Linux stack.</p>
-<p align="start">In my free time I enjoy building full-stack applications, mainly in React Native</p>
+<p align="start">Computer Science Graduate from the University of London with a keen interest in backend development.</p>
+<p align="start">I have experience working with Java in which I hold the Oracle Certified Professional: Java SE 17 Developer certification. I also have experience working with Spring Boot, Spring Data, JPA, Hibernate, SQL, Docker, Github Actions (CI/CD), AWS EC2, JavaScript, TypeScript, React, and Git.</p>
+<p align="start">I am currently looking for full-time opportunities to work as a Java Developer. I am passionate about software development and I am always eager to learn new things. I am a team player and I believe in the importance of communication and collaboration in order to achieve the best results. I am also a quick learner and I am always willing to take on new challenges. Feel free to contact me if you have any questions or if you would like to work with me.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezema" alt="ezema" /></a> </p>
 
