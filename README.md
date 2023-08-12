@@ -2,8 +2,8 @@
 <h3 align="center">A Computer Science student</h3>
 <h3 align="left">About me</h3>
 <p align="start">First and foremost, I enjoy discovering how things work below the observable surface</p>
-<p align="start">When it comes to work, I enjoy working on the backend with distributed systems, and with the low-level networking Linux stack.</p>
-<p align="start">In my free time I enjoy building full-stack applications, mainly in React Native</p>
+<p align="start">When it comes to working, I enjoy working on the backend with distributed systems, middleware software development, and with the low-level networking Linux stack.</p>
+<p align="start">In my free time I enjoy building cross-platform full-stack applications, mainly in React Native</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezema" alt="ezema" /></a> </p>
 
